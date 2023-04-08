@@ -13,14 +13,16 @@
     overflow-x: hidden;
 }
 
-/* .tnav{
+.tnav{
     display: flex;
-    
+    align-items: center;
     width: auto;
     height: 55px;
-    border: 2px solid;
-} */
+    border: 2px solid #bab4b4;
+}
 
 .trnav{
-    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
 }
