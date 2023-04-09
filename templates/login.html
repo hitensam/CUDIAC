@@ -15,39 +15,56 @@
 
                 <form method="get" action="./dashboard.html">
                     <div class="input-field">
-                        <input type="text" placeholder="Enter your name" name="user_firstName" >
-                        <i class="uil uil-user"></i>
+                        <input type="num" placeholder="Enter your phone" required>
+                        <i class="uil uil-phone icon"></i>
+                    </div>
+                    <div class="input-field">
+                        <input type="password" class="password" placeholder="Enter your password" required>
+                        <i class="uil uil-lock icon"></i>
+                        <i class="uil uil-eye-slash showHidePw"></i>
                     </div>
 
-                    <div class="input-field">
-                        <input type="text" placeholder="Enter your last name" name="user_lastName" >
-                        <i class="uil uil-user"></i>
+                    <div class="checkbox-text">
+                        <div class="checkbox-content">
+                            <input type="checkbox" id="logCheck">
+                            <label for="logCheck" class="text">Remember me</label>
+                        </div>                       
+                        <a href="#" class="text">Forgot password?</a>
                     </div>
 
+                    <div class="input-field button">
+                        <input type="button" value="Login">
+                    </div>
+                </form>
+
+                <div class="login-signup">
+                    <span class="text">Not a member?
+                        <a href="#" class="text signup-link">Signup Now</a>
+                    </span>
+                </div>
+            </div>
+
+            <!-- Registration Form -->
+            <div class="form signup">
+                <span class="title">Registration</span>
+
+                <form action="./dashboard.html" method="get">
                     <div class="input-field">
-                        <input type="text" placeholder="Enter your email" name="user_email" >
+                        <input type="text" placeholder="Enter your name" required>
                         <i class="uil uil-user"></i>
                     </div>
-                    
                     
                 <div class ="input-field">
-                    <input type ="num" placeholder="Enter your number" name= user_number >
+                    <input type ="num" placeholder="Enter your number" required>
                         <i class="uil uil-phone icon"></i>
                      </div>
-                     <div class ="input-field">
-                        <input type ="num" placeholder="Enter OTP" name= user_otp >
-                            <i class="uil uil-phone icon"></i>
-                         </div>
-                         <div class="input-field button">
-                            <input type="submit" name = "send_otp" value="Request OTP">
-                        </div>
                     <div class="input-field">
-                        <input type="password" class="password"  id="password" placeholder="Create password"  onchange='check_pass();'>
+                        <input type="password" class="password"  id="password" placeholder="Create password" required onchange='check_pass();'>
                         <i class="uil uil-lock icon"></i>
                         <i class="uil-eye-slash showHidePw"></i>
                     </div>
                     <div class="input-field">
-                        <input type="password" class="password"  id="password"placeholder="Confirm password" name = "user_pass"   onchange='check_pass();'>
+                        <input type="password" class="password"  id="password"placeholder="Confirm password" required  onchange='check_pass();'>
                         <i class="uil uil-lock icon"></i>
                         <i class="uil-eye-slash showHidePw"></i>
                     </div>
@@ -59,9 +76,8 @@
                         </div>
                     </div>
 
-
                     <div class="input-field button">
-                        <input type="submit" value="Signup">
+                        <input type="button" value="Signup">
                     </div>
                 </form>
 
