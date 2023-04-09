@@ -1,2 +1,2 @@
-# [HURD](https://argishure.wixsite.com/my-site-1)
-This is our website which is going to work properly in few hours..
+<h1 align="center"><a href="http://cudiac.co/">CUDIAC</a></h1>
+<p align="center">Streamlining the process of updating your details on multiple services by linking your details to a unique code</p>
