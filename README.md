@@ -4,6 +4,8 @@
 
 <br>
 
+### Please check out our live website here: <a href="https://hs20230409.pythonanywhere.com/app1/">CUDIAC</a>
+
 ## Problem Statement:
 - Manual entry of User details (Name, address, mobile, e-mail) are required to be entered on different sites repetitively, with each detail being filled separately.
 - If any detail about the user is changed, commonly their address, they need to visit each of these services (Amazon, Flipkart, Zomato) and change their details on each service/site repetitively & redundantly. 
@@ -15,6 +17,9 @@
 <img src="./img/Bfr_Full.png" width="500px"></img>
 <h3>After:</h3>
 <img src="./img/Aftr.png" width="250px"></img>
+<h3>OTP sent uisng twilio MLH Track</h3>
+<img src="https://user-images.githubusercontent.com/30778907/230761607-bfeeaa36-5e05-4393-ab29-91ee71154159.png" width="250px"></img>
+
 
 ## Future Scope:
 - Since the user data can be accessed from the unique code, the user will also have the right to remove the information access from any platform they seem fit and grant the access back within a time period
