@@ -1,6 +1,6 @@
 <h1 align="center"><a href="http://cudiac.co/">CUDIAC</a></h1>
 <h3 align="center">CONSOLIDATED USER DETAILS IN A CODE</h3>
-<p align="center">Streamlining the process of updating your details on multiple services by linking your details to a unique code</p>
+<p align="center">Streamlining updation of your details on multiple platforms by linking your consolidated details to a unique code</p>
 
 <br>
 
