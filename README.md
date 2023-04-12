@@ -17,8 +17,10 @@
 <img src="./img/Bfr_Full.png" width="500px"></img>
 <h3>After:</h3>
 <img src="./img/Aftr.png" width="250px"></img>
-<h3>OTP sent uisng twilio MLH Track</h3>
-<img src="https://user-images.githubusercontent.com/30778907/230761607-bfeeaa36-5e05-4393-ab29-91ee71154159.png" width="250px"></img>
+<h3>Twilio's implementation:</h3>
+<img src="https://raw.githubusercontent.com/hitensam/CUDIAC/main/img/OTP_Twilio.png" width="250px"></img>
+
+<!--<img src="https://user-images.githubusercontent.com/30778907/230761607-bfeeaa36-5e05-4393-ab29-91ee71154159.png" width="250px"></img>-->
 
 
 ## Future Scope:
