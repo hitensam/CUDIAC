@@ -1,4 +1,4 @@
-<h1 align="center"><a href="http://cudiac.co/">CUDIAC</a></h1>
+<h1 align="center"><a href="https://hitensam.github.io/CUDIAC">CUDIAC</a></h1>
 <h3 align="center">CONSOLIDATED USER DETAILS IN A CODE</h3>
 <p align="center">Streamlining updation of your details on multiple platforms by linking your consolidated details to a unique code</p>
 
